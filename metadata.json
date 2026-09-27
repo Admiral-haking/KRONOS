@@ -1,0 +1,6 @@
+{
+  "name": "KRONOS — Distributed Job Scheduler & Workflow Orchestrator",
+  "description": "Enterprise-grade Distributed Job Scheduler and DAG Workflow Orchestrator featuring Leader Election, Priority Queues, Exactly-Once Semantics, and Real-Time Observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
